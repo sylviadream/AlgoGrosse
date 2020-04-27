@@ -1,0 +1,13 @@
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.deps.json
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.runtimeconfig.json
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.runtimeconfig.dev.json
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.dll
+/home/zheng/文档/Programming/leetcode/Leetcode/bin/Debug/netcoreapp3.1/Leetcode.pdb
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.csprojAssemblyReference.cache
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.csproj.CoreCompileInputs.cache
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.AssemblyInfoInputs.cache
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.AssemblyInfo.cs
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.dll
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.pdb
+/home/zheng/文档/Programming/leetcode/Leetcode/obj/Debug/netcoreapp3.1/Leetcode.genruntimeconfig.cache
