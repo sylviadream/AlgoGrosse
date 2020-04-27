@@ -39,14 +39,13 @@ namespace Leetcode
                                     return  j;
                                 }   
                 }
-                return j;S
+                return j;
             }
-        
-         }
-  
+      }
 }
                   return 0;
 }
 }
+
 
 }
